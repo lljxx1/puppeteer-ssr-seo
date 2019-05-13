@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "isbot": "^2.2.1",
+    "puppeteer": "^1.15.0"
+  }
+}
