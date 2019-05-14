@@ -2,5 +2,30 @@
   "dependencies": {
     "isbot": "^2.2.1",
     "puppeteer": "^1.15.0"
-  }
+  },
+  "name": "puppter-ssr-seo",
+  "description": "express middleware",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lljxx1/puppeteer-ssr-seo.git"
+  },
+  "keywords": [
+    "ssr",
+    "puppeteer",
+    "seo"
+  ],
+  "author": "fun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lljxx1/puppeteer-ssr-seo/issues"
+  },
+  "homepage": "https://github.com/lljxx1/puppeteer-ssr-seo#readme"
 }
